@@ -38,4 +38,4 @@ Presentations by conference including branch name, may exist or just be a place 
 - type: Talk
 - status: Done
 - presenter[s]: @tcharding
-- branch: 2023-everything-open
+- dir: everything-open
