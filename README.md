@@ -4,9 +4,8 @@ Rust Bitcoin Presentations
 This repository is for holding material people use to do presentations (talks, workshops) on
 `rust-bitcoin`, the purpose is to share resources and time invested.
 
-Currently one branch per conference so the presenters have full control over their material.
-
-Not sure exactly what to put on `master` branch yet.
+One branch per presentation until the presentation is delivered then probably archive the content in
+a directory.
 
 ## Presentations
 
